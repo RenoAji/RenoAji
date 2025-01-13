@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Informatics student at Electronic Engineering Polytechnic Institute of Surabaya
+
+- 🖥️ Passionate in programming
+- 💼 My Portofolio : https://renoaji.github.io
