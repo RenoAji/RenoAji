@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Informatics student at Electronic Engineering Polytechnic Institute of Surabaya
 
 - 🖥️ Passionate in programming
-- 💼 My Portofolio : https://renoaji.github.io
+- 💼 My Portofolio : https://renoaji.me
