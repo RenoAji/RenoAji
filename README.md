@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Informatics student at Electronic Engineering Polytechnic Institute of Surabaya
 
-- 🖥️ Passionate in programming
+- 🖥️ Still exploring a bunch of different thing in the tech field
 - 💼 My Portofolio : https://renoaji.me
